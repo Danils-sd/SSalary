@@ -1,2 +1,3 @@
 back/src/configs/ssalary-sekretKey.json
 back/src/configs/base-key.json
+back/src/hash/hash-key.js
